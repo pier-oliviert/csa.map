@@ -23,6 +23,6 @@ KEYMAP=csa
 ```
 
 ## Missing features
-[] Composing accentuated caracters
-[] Missing diaeresis
-[] Missing Fn keys combos (I don't have a wired keyboard with the Fn key :( )
+- Composing accentuated caracters
+- Missing diaeresis
+- Missing Fn keys combos (I don't have a wired keyboard with the Fn key :( )
